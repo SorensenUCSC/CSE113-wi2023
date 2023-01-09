@@ -122,9 +122,9 @@ You will get the test as pdf worksheet when it is assigned. You must turn it in 
 The midterm will be given halfway through the class: assigned on Monday, Feb. 13 and due on Feb. 17. 
 The final will be given on Wednesday, March 22.
 
-I will design the tests to take ~120 minutes. These are open note/book/internet tests. However, it is not open friend or question. That is, while the test is active, you are not allowed to discuss the test with another person (either in the class or online). For example, you *can* google concepts that are on the test. You *cannot* post a test question to stackoverflow. You cannot use any AI assisted tool (ChatGPT or Github co-pilot) to help with the tests.
+I will design the tests to take ~180 minutes. These are open note/book/internet tests. However, it is not open friend or question. That is, while the test is active, you are not allowed to discuss the test with another person (either in the class or online). For example, you *can* google concepts that are on the test. You *cannot* post a test question to stackoverflow. You cannot use any AI assisted tool (ChatGPT or Github co-pilot) to help with the tests.
 
-_a note on timing_: my tests are designed to take 120 minutes *if* they were given in-person. In practice, students take much longer on take-home tests because you can spend time validating answers and less time studying beforehand. Because of this, many students spend much longer on take-home tests. Please consider this when budgeting time.
+_a note on timing_: my tests are designed to take 180 minutes *if* they were given in-person. In practice, students take much longer on take-home tests because you can spend time validating answers and less time studying beforehand. Because of this, many students spend much longer on take-home tests. Please consider this when budgeting time.
 
 ## Late Policy:
 
