@@ -11,7 +11,7 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Mon, Jan. 9      | Welcome!                                          |   | [Overview page](https://sorensenucsc.github.io/CSE113-wi2022/overview.html)
+| Mon, Jan. 9      | Welcome!                                          | [slides](lectures/CSE113Jan9_fa2023.pdf)   | [Overview page](https://sorensenucsc.github.io/CSE113-wi2022/overview.html)
 | Wed, Jan. 11      | Arch and Compiler Background 1                   |   | Appendix B
 | Fri, Jan. 12      | Arch and Compiler Background 2                   |   | Appendix B
 | Wed, Jan. 18     | Instruction Level Parallelism 1                   |   | Class slides
