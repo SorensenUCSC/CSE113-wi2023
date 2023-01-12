@@ -7,5 +7,5 @@ main:
     url: /schedule.html
   - title: "References"
     url: /references.html
-  - title: "Homework Setup"
-    url: /homework-setup.html
+  - title: "Docker Setup"
+    url: /docker-setup.html
