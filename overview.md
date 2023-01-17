@@ -89,7 +89,16 @@ The sign-up sheet is meant to provide fairness; as such I will be strict about k
 
 ### TA and tutor Office Hours:
 
-We will provide an office hour schedule shortly. We will try to provide hours throughout the week and both remote and in-person formats. Please use utilize these sessions!
+|    **TA/Tutor**   |   **Days**  |                  **Times**                 |        **Modality**        |                                        **Zoom Link/Signup/Location**                                       |
+|:-----------------:|:-----------:|:------------------------------------------:|:--------------------------:|:---------------------------------------------------------------------------------------------------:|
+|    Devon McKee    |     Wed     |               2:30PM - 4:30PM              |           Remote           |                https://ucsc.zoom.us/j/6705118855?pwd=alQ1SmlFbzFXMlQrYVFET1JiK1pJQT09               |
+| Jessica Dagostini |     Mon     |              12:15PM - 2:15PM              |           Hybrid           |                                                 TBD                                                 |
+|    Reese Keller   |   Tue/Wed   |              12:00PM - 1:00PM              | Remote Tue,  In person Wed | https://docs.google.com/spreadsheets/d/1Hq6pG0rp0u-h68ADaKMkZkqwva_A0jlW2IUaLUHO0ZM/edit#gid=0, Location TBD |
+|  Anish Pahilajani | Mon/Wed/Fri |               6:00PM - 7:00PM              |           Remote           |                                                 TBD                                                 |
+|  Gurpreet Dhillon | Mon/Wed/Fri |               4:00PM - 5:00PM              |          In person         |                                             SNE Room 326                                            |
+|    Kyle Little    | Mon/Wed/Fri |              11:00AM - 12:00PM             |           Hybrid           |                                                 TBD                                                 |
+|  Sanya Srivastava |   Tue/Thu   | 2:00PM - 3:00PM (T),  1:00PM - 2:00PM (Th) |           Hybrid           |                                                 TBD                                                 |
+
 
 ## Asynchronous Communication
 
