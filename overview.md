@@ -97,7 +97,7 @@ The sign-up sheet is meant to provide fairness; as such I will be strict about k
 | Anish Pahilajani  | Mon/Wed/Fri | 6:00PM - 7:00PM                            | Remote                     | TBD                                                                                                     |
 | Gurpreet Dhillon  | Mon/Wed/Fri | 4:00PM - 5:00PM                            | In person                  | SNE-326                                                                                                 |
 | Kyle Little       | Mon/Wed/Fri | 11:00AM - 12:00PM                          | Hybrid                     | TBD                                                                                                     |
-| Sanya Srivastava  | Tue/Thu     | 2:00PM - 3:00PM (T),  1:00PM - 2:00PM (Th) | Hybrid                     | TBD                                                                                                     |
+| Sanya Srivastava  | Tue/Thu     | 2:00PM - 3:00PM (T),  1:00PM - 2:00PM (Th) | Hybrid                     | https://docs.google.com/spreadsheets/d/1SrQU4Djbvn3jYOR-CHTfqc-uMraFlHi7x0UpEFV7TbU/edit?usp=sharing    |
 
 ## Asynchronous Communication
 
