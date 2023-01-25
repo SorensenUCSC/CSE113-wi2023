@@ -22,7 +22,7 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
 | Mon, Jan. 23     | Principles of Mutual Exclusion 1  |  [slides](lectures/CSE113Jan23_wi2023.pdf) | Chapter 2
-| Wed, Jan. 25     | Principles of Mutual Exclusion 2  |  | Chapter 2
+| Wed, Jan. 25     | Principles of Mutual Exclusion 2  |  [slides](lectures/CSE113Jan25_wi2023.pdf) | Chapter 2
 | Fri, Jan. 27     | Grad TA Parallel Topic Lectures   |  |
 | Mon, Jan. 30     | Mutual Exclusion in Practice 1    |  | Chapter 7 - 7.5
 | Wed, Feb. 1      | Mutual Exclusion in Practice 2    |  | Chapter 7.5 - end
