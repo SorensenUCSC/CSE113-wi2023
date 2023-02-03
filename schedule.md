@@ -26,7 +26,7 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 | Fri, Jan. 27     | Grad TA Parallel Topic Lectures   |  [slides #1 (Jessica)](lectures/CSE113Jan27_wi2023-jessica-openmp.pdf), [slides #2 (Jessica)](lectures/CSE113Jan27_wi2023-jessica-lightning.pdf), [slides (Devon)](lectures/CSE113Jan27_wi2023-devon.pdf) |
 | Mon, Jan. 30     | Mutual Exclusion in Practice 1    |  [slides](lectures/CSE113Jan30_wi2023.pdf) | Chapter 7 - 7.5
 | Wed, Feb. 1      | Mutual Exclusion in Practice 2    |  [slides](lectures/CSE113Feb1_wi2023.pdf) | Chapter 7.5 - end
-| Fri, Feb. 3      | Specialized Mutual Exclusion 1    |  | Chapter 8
+| Fri, Feb. 3      | Specialized Mutual Exclusion 1    |  [slides](lectures/CSE113Feb3_wi2023.pdf) | Chapter 8
 | Mon, Feb. 6      | Specialized Mutual Exclusion 1    |  | Chapter 8
 
 ### Module 3: Concurrent Data Structures
