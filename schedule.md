@@ -37,7 +37,7 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 | Fri, Feb. 10     | Principles of Concurrent Objects II  | [slides](lectures/CSE113Feb10_wi2023.pdf) | Chapter 3
 | Mon, Feb. 13     | Specialized Queues                   |  [slides](lectures/CSE113Feb13_wi2023.pdf)| Class slides
 | Wed, Feb. 15     | Work Stealing                        |  [slides](lectures/CSE113Feb15_wi2023.pdf) | Chapter 10
-| Fri, Feb. 17     | Work Stealing 2                      |  | Class Slides
+| Fri, Feb. 17     | Work Stealing 2                      |   [slides](lectures/CSE113Feb17_wi2023.pdf)| Class Slides
 | Wed, Feb. 22     | Concurrent Sets                      |  | Class Slides
 | Fri, Feb. 24     |  Concurrent Sets 2                   |  | Class Slides
  
