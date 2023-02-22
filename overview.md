@@ -96,7 +96,7 @@ The sign-up sheet is meant to provide fairness; as such I will be strict about k
 |    Reese Levine   |   Tue/Wed   |                12:00PM - 1:00PM               |   Remote Tue,  In person Wed  | BE-153A, https://docs.google.com/spreadsheets/d/1Hq6pG0rp0u-h68ADaKMkZkqwva_A0jlW2IUaLUHO0ZM/edit#gid=0 |
 |  Anish Pahilajani | Mon/Wed/Fri |                6:00PM - 7:00PM                |             Remote            |                             https://piazza.com/class/lckt6jighkv5d1/post/20                             |
 |  Gurpreet Dhillon | Mon/Wed/Fri | 11:00AM - 12:00PM (M/F), 12:00PM - 1:00PM (W) | Hybrid Mon/Fri, In person Wed |      https://docs.google.com/spreadsheets/d/1PLG5hJcd1ogbPXoGxLLXHwA-J0FgdKkFwMJ1GPmfxrE/edit#gid=0     |
-|    Kyle Little    | Mon/Wed/Fri |               11:00AM - 12:00PM               |             Hybrid            |   https://docs.google.com/spreadsheets/d/1EUVZQueNAoQEQClENMamtaqQpENN9DttlnW8Jyiut4w/edit?usp=sharing  |
+|    Kyle Little    |   Mon/Fri   |  11:00AM - 1:00PM (M), 10:30AM - 11:30AM (F)  |             Hybrid            |   https://docs.google.com/spreadsheets/d/1EUVZQueNAoQEQClENMamtaqQpENN9DttlnW8Jyiut4w/edit?usp=sharing  |
 |  Sanya Srivastava |   Tue/Thu   |   2:00PM - 3:00PM (T),  1:00PM - 2:00PM (Th)  |             Hybrid            |   https://docs.google.com/spreadsheets/d/1SrQU4Djbvn3jYOR-CHTfqc-uMraFlHi7x0UpEFV7TbU/edit?usp=sharing  |
 
 ## Asynchronous Communication
