@@ -38,29 +38,30 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 | Mon, Feb. 13     | Specialized Queues                   |  [slides](lectures/CSE113Feb13_wi2023.pdf)| Class slides
 | Wed, Feb. 15     | Work Stealing                        |  [slides](lectures/CSE113Feb15_wi2023.pdf) | Chapter 10
 | Fri, Feb. 17     | Work Stealing 2                      |   [slides](lectures/CSE113Feb17_wi2023.pdf)| Class Slides
-| Wed, Feb. 22     | Concurrent Sets                      |  | Class Slides
-| Fri, Feb. 24     |  Concurrent Sets 2                   |  | Class Slides
+| Wed, Feb. 22     | CLASS CANCELED                    | CLASS CANCELED | Class Slides
+| Fri, Feb. 24     |  Concurrent Sets                    |  | Class Slides
+| Mon, Feb. 27     | Concurrent Sets 2                    |  | Class Slides
  
 
 ### Module 4: Reasoning about Concurrency
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Mon, Feb. 27     |  Barriers                      |  | Chapter 17
-| Wed, March 1     |  Memory Consistency Models 1   |  | [You Don’t Know Jack...](https://queue.acm.org/detail.cfm?id=2088916) 
-| Fri, March 3     |  Memory Consistency Models 2   |  | [You Don’t Know Jack...](https://queue.acm.org/detail.cfm?id=2088916) 
-| Mon, March 6     |  Forward progress 1            |  | Class Slides
-| Wed, March 8     |  Forward progress 2            |  | Class Slides
+| Wed, March 1     |  Barriers                      |  | Chapter 17
+| Fri, March 3     |  Memory Consistency Models 1   |  | [You Don’t Know Jack...](https://queue.acm.org/detail.cfm?id=2088916) 
+| Mon, March 6     |  Memory Consistency Models 2   |  | [You Don’t Know Jack...](https://queue.acm.org/detail.cfm?id=2088916) 
+| Wed, March 8      |  Forward progress 1            |  | Class Slides
+| Fri, March 10     |  Forward progress 2            |  | Class Slides
 
 
 ### Module 5: Heterogeneous Computing
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Fri, March 10    | Intro to GPUs and Javascript         |  | Class Slides
-| Mon, March 13    | Javascript parallelism 1             |  | Class Slides
-| Wed, March 15    | GPU Programming 1                    |  | CUDA By Example Chapter 1
-| Fri, March 17    | GPU Programming 2                    |  | CUDA By Example Chapter 3-4
+|  Mon, March 13     | Intro to GPUs and Javascript         |  | Class Slides
+| Wed, March 15    | Javascript parallelism 1             |  | Class Slides
+| Fri, March 17     | GPU Programming 1                    |  | CUDA By Example Chapter 1
+| IF TIME    | GPU Programming 2                    |  | CUDA By Example Chapter 3-4
 
 
 ## Final
