@@ -40,7 +40,7 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 | Fri, Feb. 17     | Work Stealing 2                      |   [slides](lectures/CSE113Feb17_wi2023.pdf)| Class Slides
 | Wed, Feb. 22     | CLASS CANCELED                    | CLASS CANCELED | Class Slides
 | Fri, Feb. 24     |  Concurrent Sets                    |  [slides](lectures/CSE113Feb24_wi2023.pdf) | Class Slides
-| Mon, Feb. 27     | Concurrent Sets 2                    |  | Class Slides
+| Mon, Feb. 27     | Concurrent Sets 2                    |  [slides](lectures/CSE113Feb27_wi2023.pdf)  | Class Slides
  
 
 ### Module 4: Reasoning about Concurrency
