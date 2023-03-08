@@ -50,18 +50,17 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 | Wed, March 1     |  Barriers                      |  [slides](lectures/CSE113March1_wi2023.pdf) | Chapter 17
 | Fri, March 3     |  Memory Consistency Models 1   |  [slides](lectures/CSE113March3_wi2023.pdf) | [You Don’t Know Jack...](https://queue.acm.org/detail.cfm?id=2088916) 
 | Mon, March 6     |  Memory Consistency Models 2   | [slides](lectures/CSE113March6_wi2023.pdf) | [You Don’t Know Jack...](https://queue.acm.org/detail.cfm?id=2088916) 
-| Wed, March 8      |  Forward progress 1            |  | Class Slides
-| Fri, March 10     |  Forward progress 2            |  | Class Slides
+| Wed, March 8      |  Forward progress 1            |  [slides](lectures/CSE113March8_wi2023.pdf)| Class Slides
 
 
 ### Module 5: Heterogeneous Computing
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-|  Mon, March 13     | Intro to GPUs and Javascript         |  | Class Slides
-| Wed, March 15    | Javascript parallelism 1             |  | Class Slides
-| Fri, March 17     | GPU Programming 1                    |  | CUDA By Example Chapter 1
-| IF TIME    | GPU Programming 2                    |  | CUDA By Example Chapter 3-4
+|  Fri, March 10     | Intro to GPUs and Javascript         |  | Class Slides
+| Mon, March 13   | Javascript parallelism 1             |  | Class Slides
+| Wed, March 15     | GPU Programming 1                    |  | CUDA By Example Chapter 1
+| Fri, March 17     | GPU Programming 2                    |  | CUDA By Example Chapter 3-4
 
 
 ## Final
